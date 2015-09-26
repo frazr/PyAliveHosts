@@ -1,0 +1,7 @@
+{
+  "hosts": [
+    {
+      "domain": "http://example.com"
+    }
+  ]
+}
